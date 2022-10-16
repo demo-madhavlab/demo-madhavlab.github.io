@@ -1,0 +1,54 @@
+- name: GitHub
+  url: https://github.com/madhavlab
+  class: icon-github
+  title: Let's Code.
+
+- name: YouTube
+  url: https://www.youtube.com/c/MADHAVlabIITK
+  class: icon-youtube
+  title: "Watch and Learn."
+
+- name: Twitter
+  url: https://twitter.com/madhavlab
+  class: icon-twitter
+  title: "Tweet-Retweet."
+  
+ - name: LinkedIn
+  url: https://www.linkedin.com/company/madhav-lab
+  class: icon-twitter
+  title: "Let's Connect."
+
+#- name: Mixcloud
+#  url: http://www.mixcloud.com/phlow/
+#  class: icon-cloud
+#  title: "Mixe, was sonst?"
+
+#- name: Phlow YouTube Google+
+#  url: https://plus.google.com/u/0/+Phlow
+#  class: icon-googleplus
+#  title: "YouTube Google+"
+
+# - name: Facebook
+#   url: http://www.facebook.com/
+#   class: icon-facebook
+#   title: ""
+
+# - name: Soundcloud
+#   url: http://soundcloud.com/
+#   class: icon-soundcloud
+#   title: ""
+
+# - name: Instagram
+#   url: http://instagram.com/
+#   class: icon-instagram
+#   title: ""
+
+# - name: Pinterest
+#   url: http://www.pinterest.com/
+#   class: icon-pinterest
+#   title: ""
+
+# - name: Xing
+#   url: https://www.xing.com/profile/
+#   class: icon-xing
+#   title: Xing Profil
